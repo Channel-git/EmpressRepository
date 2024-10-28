@@ -1,0 +1,16 @@
+{
+  "title": "<EMPRESS INVADER CONCEPT COMIC>",
+  "description": "<A concept comic for first game I pitched in the club meetings>",
+  "artist": "<Channel>",
+  "author": "<Channel>",
+  "cover": "<EI C COVER.jpg>",
+  "chapters": {
+    "<?>": {
+      "title": "<"Dark and Darker">",
+      "groups": {
+        "<Channeldirectoryy>": "/proxy/api/imgur/chapter/<DYTkfMQ>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
